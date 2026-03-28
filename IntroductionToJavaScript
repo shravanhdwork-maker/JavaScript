@@ -1,0 +1,92 @@
+JavaScript Notes
+1. What is JavaScript?
+
+JavaScript (JS) is a programming language used to make web pages interactive and dynamic.
+
+Without JavaScript, a website is static (only shows content).
+With JavaScript, we can:
+
+Handle button clicks
+Validate forms
+Update content without refreshing the page
+
+In simple words:
+JavaScript adds behavior and functionality to web pages.
+
+2. History of JavaScript
+
+JavaScript was created in 1995 by Brendan Eich.
+
+It was developed for the Netscape browser.
+
+Initially, it was named:
+
+Mocha
+Then LiveScript
+Finally renamed to JavaScript
+
+Later, JavaScript was standardized as ECMAScript (ES).
+
+Important version:
+
+ES6 (introduced modern features like arrow functions, let/const, etc.)
+3. Uses of JavaScript
+
+JavaScript is widely used in many areas:
+
+Web Development (Frontend)
+Creating interactive user interfaces
+Form validation
+Animations
+Backend Development
+Using Node.js
+Building APIs and servers
+Mobile Applications
+Using frameworks like React Native
+Desktop Applications
+Using Electron
+Game Development
+Browser-based games
+Automation and Testing
+Tools like Selenium and Playwright
+4. How JavaScript Works in the Browser
+
+When you open a website, the browser loads:
+
+HTML (structure)
+CSS (design)
+JavaScript (functionality)
+
+The browser has a JavaScript engine:
+
+Chrome uses V8 Engine
+Firefox uses SpiderMonkey
+
+The JavaScript engine:
+
+Reads the code
+Converts it into machine code
+Executes it
+
+Main components involved:
+
+Call Stack
+Executes functions one by one
+Web APIs
+Provided by the browser
+Examples: setTimeout, DOM events
+Callback Queue
+Stores completed asynchronous tasks
+Event Loop
+Moves tasks from the queue to the call stack
+
+Simple concept:
+
+Synchronous code runs first
+Asynchronous code runs later
+
+Quick Summary
+JavaScript is used to make web pages interactive
+Created in 1995 by Brendan Eich
+Used in frontend, backend, apps, and testing
+Works using JavaScript engine, call stack, and event loop
