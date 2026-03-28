@@ -1,6 +1,4 @@
-JavaScript Notes
 1. What is JavaScript?
-
 JavaScript (JS) is a programming language used to make web pages interactive and dynamic.
 
 Without JavaScript, a website is static (only shows content).
@@ -13,27 +11,24 @@ Update content without refreshing the page
 In simple words:
 JavaScript adds behavior and functionality to web pages.
 
+====================================================================================
+
 2. History of JavaScript
 
 JavaScript was created in 1995 by Brendan Eich.
-
 It was developed for the Netscape browser.
-
 Initially, it was named:
-
 Mocha
 Then LiveScript
 Finally renamed to JavaScript
-
 Later, JavaScript was standardized as ECMAScript (ES).
-
 Important version:
-
 ES6 (introduced modern features like arrow functions, let/const, etc.)
+
+====================================================================================
+
 3. Uses of JavaScript
-
 JavaScript is widely used in many areas:
-
 Web Development (Frontend)
 Creating interactive user interfaces
 Form validation
@@ -49,8 +44,10 @@ Game Development
 Browser-based games
 Automation and Testing
 Tools like Selenium and Playwright
-4. How JavaScript Works in the Browser
 
+======================================================================================
+
+4. How JavaScript Works in the Browser
 When you open a website, the browser loads:
 
 HTML (structure)
@@ -84,9 +81,3 @@ Simple concept:
 
 Synchronous code runs first
 Asynchronous code runs later
-
-Quick Summary
-JavaScript is used to make web pages interactive
-Created in 1995 by Brendan Eich
-Used in frontend, backend, apps, and testing
-Works using JavaScript engine, call stack, and event loop
