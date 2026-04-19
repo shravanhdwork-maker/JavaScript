@@ -67,15 +67,14 @@ Executes it
 
 Main components involved:
 
-Call Stack
-Executes functions one by one
-Web APIs
-Provided by the browser
+Call Stack: Executes functions one by one
+
+Web APIs: Provided by the browser
 Examples: setTimeout, DOM events
-Callback Queue
-Stores completed asynchronous tasks
-Event Loop
-Moves tasks from the queue to the call stack
+
+Callback Queue: Stores completed asynchronous tasks
+
+Event Loop: Moves tasks from the queue to the call stack
 
 Simple concept:
 
